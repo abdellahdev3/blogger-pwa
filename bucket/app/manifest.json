@@ -1,11 +1,11 @@
 {
-  "name": "My Blog",
-  "id": "/",
-  "short_name": "My Blog",
-  "description": "My blog description goes here...",
-  "version": "1.0",
+  "name": "Bac Feljib",
+  "id": "com.bac.feljib.dz.education",
+  "short_name": "Bac Feljib",
+  "description": "موقع الباك في الجيب | bac feljib هو موقع تعليمي جزائري مختص بنشر  كل ما يحتاجه تلاميذ البكالوريا من دروس و ملخصات  و كتب خارجية للبكالوريا, و كذالك نماذج اختبارات و مواضيع الباكالوريا. كما يقدم الموقع نصائح و ارشادات لطلاب البكالوريا صمم موقع الباك في الجيب خصيصا لأصحاب البكالوريا سواء كانوا نظاميين أو احرار  لتسهيل عليهم عملية البحث عن ما يحتاجونه في عام البكالوريا  .",
+  "version": "3.0.1",
   "dir": "auto",
-  "lang": "en-US",
+  "lang": "ar-DZ",
   "orientation": "any",
   "start_url": "/?utm_source=homescreen",
   "scope": "/",
@@ -116,10 +116,10 @@
   ],
   "shortcuts": [
     {
-      "name": "Shortcut 1",
-      "short_name": "Shortcut 1",
-      "description": "Shortcut 1 description goes here...",
-      "url": "/search/label/shortcut-1?utm_source=homescreen",
+      "name": "دروس و ملخصات",
+      "short_name": "دروس و ملخصات",
+      "description": "دروس و افضل الملخصات لجميع المواد التعليمية",
+      "url": "/p/lessons-and-summaries-bac.html?utm_source=homescreen",
       "icons": [
         {
           "src": "icons/android-chrome-96x96.png",
@@ -128,10 +128,10 @@
       ]
     },
     {
-      "name": "Shortcut 2",
-      "short_name": "Shortcut 2",
-      "description": "Shortcut 2 description goes here...",
-      "url": "/search/label/shortcut-2?utm_source=homescreen",
+      "name": "تمارين مع الحل",
+      "short_name": "تمارين مع الحل",
+      "description": "افضل التمارين لجميع المواد مع الحل",
+      "url": "/p/exercises-with-solution-bac.html?utm_source=homescreen",
       "icons": [
         {
           "src": "icons/android-chrome-96x96.png",
